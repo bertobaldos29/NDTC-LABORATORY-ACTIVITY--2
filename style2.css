@@ -1,0 +1,19 @@
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 3px solid #e43f47;
+  text-align: left;
+  padding: 3px;
+}
+
+tr:nth-child(odd) {
+  background-color: #c098a4;
+
+text-replace: nth;
+}
+</style>
